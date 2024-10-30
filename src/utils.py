@@ -24,7 +24,7 @@ def calculate_cashflow(
 ):
     
     '''Uses some made up numbers to calculate mock cash flow data using
-    the base and weighted models.'''
+    predictions from the base and weighted models.'''
 
     # Make a dictionary to hold our toy data
     results={
