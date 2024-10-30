@@ -5,6 +5,7 @@
     },
     "cSpell.words": [
         "astype",
+        "corrcoef",
         "dataframe",
         "datatypes",
         "downcasting",
@@ -20,6 +21,7 @@
         "poutcome",
         "scikit",
         "sharey",
-        "suptitle"
+        "suptitle",
+        "ylabel"
     ]
 }
